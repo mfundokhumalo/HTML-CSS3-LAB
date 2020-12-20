@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: rgb(58, 28, 28);
+    font: 50px;
+}
+
+h4 {
+    color: rosybrown;
+    font-size: 40px;
+}
